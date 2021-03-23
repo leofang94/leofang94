@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Leo](@leofang94)
+- 👋 Hi, I’m [Leo](https://github.com/leofang94)
 - 👀 I’m interested in EdgeComputing, CloudNative and other new technology
 - 🌱 I’m currently learning Golang, container, k8s, kubeedge ...
 - 💞️ I’m looking to collaborate on EC and CN
