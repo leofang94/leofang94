@@ -38,5 +38,5 @@ docker-ce | 18.06.3~ce~3-0~ubuntu | http://xxx/docker-ce/linux/ubuntu bionic/sta
 docker-ce | 18.06.2~ce~3-0~ubuntu | http://xxx/docker-ce/linux/ubuntu bionic/stable amd64 Packages
 
 # Install Docker Engine and containerd
-apt-get install docker-ce=5:19.03.8~3-0~ubuntu-bionic docker-ce-cli=5:19.03.8~3-0~ubuntu-bionic containerd.io
+sudo apt-get install docker-ce=5:19.03.8~3-0~ubuntu-bionic docker-ce-cli=5:19.03.8~3-0~ubuntu-bionic containerd.io
 ```
