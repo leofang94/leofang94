@@ -1,4 +1,4 @@
-### docker install in Ubuntu
+### docker install in ubuntu
 
 ```sh
 # Uninstall old packages in machine
@@ -11,7 +11,7 @@ sudo apt-get install \
     ca-certificates \
     curl \
     gnupg \
-    software-properties-common
+    lsb-release
 
 # Add docker's GPG key of aliyun mirrors:
 curl -fsSL https://mirrors.aliyun.com/docker-ce/linux/ubuntu/gpg | sudo apt-key add -
